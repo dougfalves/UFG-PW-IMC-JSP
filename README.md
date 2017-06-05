@@ -1,7 +1,3 @@
-# silviop
-
-Laboratório da turma de Programação para Web.
-
 ## Para rodar o projeto
 
 ### Para fazer clone.
