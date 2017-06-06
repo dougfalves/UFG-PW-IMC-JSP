@@ -1,3 +1,7 @@
+# silviop
+
+Laboratório da turma de Programação para Web.
+
 ## Para rodar o projeto
 
 ### Para fazer clone.
@@ -8,4 +12,7 @@
 
 `mvnw tomcat7:run`
 
+### Para acessar o projeto no navegador
+
+http://localhost:9090/UFG-PW-IMC-JSP/
 

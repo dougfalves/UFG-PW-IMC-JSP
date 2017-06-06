@@ -38,14 +38,14 @@
 
 
             <div class="row">
-                <form class="form-horizontal" action="${param.contextPath}/imc/imc">
+                <form class="form-horizontal" action="${param.contextPath}/UFG-PW-IMC-JSP/imc">
 
                     <fieldset>		
 
                         <div class="form-group">
                             <label class="col-md-4 control-label" for="textinput">Altura</label>  
                             <div class="col-md-4">
-                                <input id="altura" name="altura" type="number" placeholder="altura em cm" class="form-control input-md" required="" value="${param.altura}" placeholder="Informe a altura">                                    
+                                <input id="altura" name="altura" type="number" step="0.01" placeholder="altura em cm" class="form-control input-md" required="" value="${param.altura}" placeholder="Informe a altura">                                    
                             </div>
                         </div>                       
 
