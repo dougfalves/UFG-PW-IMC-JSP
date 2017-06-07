@@ -16,3 +16,7 @@ Laboratório da turma de Programação para Web.
 
 http://localhost:9090/UFG-PW-IMC-JSP/
 
+### Para recompilar o projeto 
+
+`mvnw clean compile tomcat7:run`
+
